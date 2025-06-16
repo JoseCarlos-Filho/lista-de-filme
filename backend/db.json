@@ -1,0 +1,29 @@
+{
+  "filmes": [
+    {
+      "id": "1001",
+      "nome": "O Iluminado",
+      "genero": "Terror"
+    },
+    {
+      "id": "1002",
+      "nome": "Forrest Gump: O Contador de Histórias",
+      "genero": "Drama"
+    },
+    {
+      "id": "1003",
+      "nome": "Matrix",
+      "genero": "Ficção Científica"
+    },
+    {
+      "id": "1004",
+      "nome": "Batman: O Cavaleiro das Trevas",
+      "genero": "Ação"
+    },
+    {
+      "id": "1005",
+      "nome": "Alien: Romulus",
+      "genero": "Ficção Científica"
+    }
+  ]
+}
