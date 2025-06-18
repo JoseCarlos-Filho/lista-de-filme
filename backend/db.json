@@ -24,6 +24,151 @@
       "id": "1005",
       "nome": "Alien: Romulus",
       "genero": "Ficção Científica"
+    },
+    {
+      "id": "1006",
+      "nome": "Pulp Fiction",
+      "genero": "Crime"
+    },
+    {
+      "id": "1007",
+      "nome": "A Origem",
+      "genero": "Ficção Científica"
+    },
+    {
+      "id": "1008",
+      "nome": "Titanic",
+      "genero": "Romance"
+    },
+    {
+      "id": "1009",
+      "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+      "genero": "Fantasia"
+    },
+    {
+      "id": "1010",
+      "nome": "Gladiador",
+      "genero": "Ação"
+    },
+    {
+      "id": "1011",
+      "nome": "A Rede Social",
+      "genero": "Drama"
+    },
+    {
+      "id": "1012",
+      "nome": "Jurassic Park",
+      "genero": "Aventura"
+    },
+    {
+      "id": "1013",
+      "nome": "O Lobo de Wall Street",
+      "genero": "Comédia"
+    },
+    {
+      "id": "1014",
+      "nome": "Os Vingadores",
+      "genero": "Ação"
+    },
+    {
+      "id": "1015",
+      "nome": "Cidadão Kane",
+      "genero": "Drama"
+    },
+    {
+      "id": "1016",
+      "nome": "A Vida é Bela",
+      "genero": "Drama"
+    },
+    {
+      "id": "1017",
+      "nome": "Os Suspeitos",
+      "genero": "Suspense"
+    },
+    {
+      "id": "1018",
+      "nome": "Mad Max: Estrada da Fúria",
+      "genero": "Ação"
+    },
+    {
+      "id": "1019",
+      "nome": "O Silêncio dos Inocentes",
+      "genero": "Terror"
+    },
+    {
+      "id": "1020",
+      "nome": "O Exorcista",
+      "genero": "Terror"
+    },
+    {
+      "id": "1021",
+      "nome": "Pequena Miss Sunshine",
+      "genero": "Comédia"
+    },
+    {
+      "id": "1022",
+      "nome": "O Grande Lebowski",
+      "genero": "Comédia"
+    },
+    {
+      "id": "1023",
+      "nome": "Brilho Eterno de uma Mente sem Lembranças",
+      "genero": "Romance"
+    },
+    {
+      "id": "1024",
+      "nome": "O Diabo Veste Prada",
+      "genero": "Comédia"
+    },
+    {
+      "id": "1025",
+      "nome": "O Labirinto do Fauno",
+      "genero": "Fantasia"
+    },
+    {
+      "id": "1026",
+      "nome": "O Corvo",
+      "genero": "Terror"
+    },
+    {
+      "id": "1027",
+      "nome": "A Viagem de Chihiro",
+      "genero": "Animação"
+    },
+    {
+      "id": "1028",
+      "nome": "Cidade de Deus",
+      "genero": "Drama"
+    },
+    {
+      "id": "1029",
+      "nome": "Trainspotting",
+      "genero": "Drama"
+    },
+    {
+      "id": "1030",
+      "nome": "Um Estranho no Ninho",
+      "genero": "Drama"
+    },
+    {
+      "id": "1031",
+      "nome": "A Fantástica Fábrica de Chocolate",
+      "genero": "Aventura"
+    },
+    {
+      "id": "1032",
+      "nome": "A Era do Gelo",
+      "genero": "Animação"
+    },
+    {
+      "id": "1033",
+      "nome": "As Vantagens de Ser Invisível",
+      "genero": "Drama"
+    },
+    {
+      "id": "1034",
+      "nome": "O Estranho que Nós Amamos",
+      "genero": "Drama"
     }
   ]
 }
