@@ -12,6 +12,24 @@ const api = {
     }
   },
 
+  async buscarFilmesPorTermo(termoPesquisado) {
+    try {
+      const filmes = await this.buscarFilmes()
+      const termoEmMinusculas = termoPesquisado.toLowerCase()
+
+      const filmesFiltrados = filmes.filter(filme => {
+                return (filme.nome.toLowerCase().includes(termoEmMinusculas) ||
+                filme.genero.toLowerCase().includes(termoEmMinusculas))
+      });
+
+      return filmesFiltrados;
+
+    } catch (error) {
+      alert("Erro ao filtrar filmes");
+      throw error;
+    }
+  },
+
   async salvarFilme(filme) {
     try {
       const response = await axios.post(`${url}/filmes`, filme)
