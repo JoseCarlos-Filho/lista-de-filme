@@ -63,6 +63,7 @@ const ui = {
         ui.renderizarFilmes()
       } catch (error) {
         alert("Erro ao excluir filme")
+        throw error
       }
     }
 
