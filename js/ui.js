@@ -72,10 +72,32 @@ const ui = {
     iconeExcluir.alt = "Excluir"
     botaoExcluir.appendChild(iconeExcluir)
 
+    const botaoFavorito = document.createElement("button")
+    botaoFavorito.classList.add("botao-favorito");
+    botaoFavorito.onclick = async () => {
+      try {
+        filme.favorito = !filme.favorito
+        await api.atualizarFavorito(filme.id, filme.favorito)
+        ui.renderizarFilmes()
+      } catch (error) {
+        alert("Erro ao atualizar favorito")
+        throw error
+      }
+    }
+    
+    const iconeFavorito = document.createElement("img")
+    iconeFavorito.src = filme.favorito ?
+      "assets/imagens/icone-favorito.png"
+      : "assets/imagens/icone-favorito_outline.png"
+
+    iconeFavorito.alt = "icone de favorito"
+    botaoFavorito.appendChild(iconeFavorito)
+
     const icones = document.createElement("div")
     icones.classList.add("icones")
     icones.appendChild(botaoEditar)
     icones.appendChild(botaoExcluir)
+    icones.appendChild(botaoFavorito)
 
     li.appendChild(filmeNome)
     li.appendChild(filmeGenero)
