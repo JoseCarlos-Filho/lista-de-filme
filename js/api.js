@@ -71,6 +71,16 @@ const api = {
       alert('Erro ao excluir um filme')
       throw error
     }
+  },
+
+  async atualizarFavorito(id, favorito) {
+    try {
+      const response = await axios.patch(`${url}/filmes/${id}`, { favorito: favorito })
+      return await response.data;
+    } catch (error) {
+      alert("Erro ao atualizar filme favorito");
+      throw error;
+    }
   }
 }
 
