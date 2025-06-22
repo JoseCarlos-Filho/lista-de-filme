@@ -1,10 +1,21 @@
 const url = "http://localhost:3000"
 
+const formatarData = (dataString) => {
+  const [ano] = dataString.split('-');
+  return new Date(Date.UTC(ano));
+}
+
 const api = {
   async buscarFilmes() {
     try {
       const response = await axios.get(`${url}/filmes`)
-      return await response.data
+      const filmes = await response.data;
+      return filmes.map(filme => {
+        return {
+          ...filme,
+          data: new Date(filme.data),
+        }
+      })
     }
     catch {
       alert('Erro ao buscar filmes')
@@ -32,7 +43,11 @@ const api = {
 
   async salvarFilme(filme) {
     try {
-      const response = await axios.post(`${url}/filmes`, filme)
+      const data = formatarData(filme.data);
+      const response = await axios.post(`${url}/filmes`, {
+        ...filme,
+        data: data.toISOString()
+      })
       return await response.data
     }
     catch {
@@ -44,7 +59,11 @@ const api = {
   async buscarFilmePorId(id) {
     try {
       const response = await axios.get(`${url}/filmes/${id}`)
-      return await response.data
+      const filme = await response.data
+      return {
+        ...filme,
+        data: new Date(filme.data),
+      }
     }
     catch {
       alert('Erro ao buscar filme')
