@@ -7,6 +7,8 @@ const ui = {
     document.getElementById("filme-id").value = filme.id
     document.getElementById("filme-nome").value = filme.nome
     document.getElementById("filme-genero").value = filme.genero
+    document.getElementById("filme-data").value = filme.data.toISOString().split("T")[0]
+    //document.getElementById("filme-form").scrollIntoView();
   },
 
   limparFormulario() {
@@ -45,6 +47,21 @@ const ui = {
     const filmeGenero = document.createElement("div")
     filmeGenero.textContent = filme.genero
     filmeGenero.classList.add("filme-genero")
+
+    const filmeDataLabel = document.createElement("label")
+    filmeDataLabel.textContent = "Data de Lançamento:"
+    filmeDataLabel.classList.add("filme-data-label")
+
+    const filmeData = document.createElement("div");
+    const dataFormatada = filme.data.toLocaleDateString("pt-BR", {
+      // weekday: "long",
+      year: "numeric",
+      // month: "long",
+      // day: "numeric",
+      timeZone: "UTC"
+    });
+    filmeData.textContent = dataFormatada;
+    filmeData.classList.add("filme-data");
 
     const botaoEditar = document.createElement("button")
     botaoEditar.classList.add("botao-editar")
@@ -101,6 +118,9 @@ const ui = {
 
     li.appendChild(filmeNome)
     li.appendChild(filmeGenero)
+    li.appendChild(filmeDataLabel)
+    li.appendChild(filmeData)
+
     li.appendChild(icones)
     listaFilmes.appendChild(li)
   }
