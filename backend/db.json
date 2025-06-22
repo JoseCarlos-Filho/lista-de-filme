@@ -159,7 +159,8 @@
       "id": "1026",
       "nome": "O Corvo",
       "genero": "Terror",
-      "data": "2022-12-21T21:10:00.000Z"
+      "data": "2022-12-21T21:10:00.000Z",
+      "favorito": false
     },
     {
       "id": "1027",
@@ -201,19 +202,15 @@
       "id": "1033",
       "nome": "As Vantagens de Ser Invisível",
       "genero": "Drama",
-      "data": "2024-01-27T16:00:00.000Z"
+      "data": "2024-01-27T16:00:00.000Z",
+      "favorito": false
     },
     {
       "id": "1034",
       "nome": "O Estranho que Nós Amamos",
       "genero": "Drama",
-      "data": "2023-08-03T12:10:00.000Z"
-    },
-    {
-      "id": "7fe9",
-      "nome": "Vanhelsing",
-      "genero": "Terror",
-      "data": "2025-06-06"
+      "data": "2023-08-03T12:10:00.000Z",
+      "favorito": false
     }
   ]
 }
