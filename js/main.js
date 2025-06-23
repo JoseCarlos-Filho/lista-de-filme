@@ -1,6 +1,12 @@
 import ui from "./ui.js"
 import api from "./api.js"
 
+const regexConteudo = /^[A-Za-z\s]{10,}$/
+
+function validarConteudo(conteudo) {
+  return regexConteudo.test(conteudo)
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   ui.renderizarFilmes()
 
@@ -19,6 +25,13 @@ async function manipularSubmissaoFormulario(event) {
   const nome = document.getElementById("filme-nome").value
   const genero = document.getElementById("filme-genero").value
   const data = document.getElementById("filme-data").value
+
+  if (!validarConteudo(nome) || !validarConteudo(genero)) {
+    alert("Nome e gênero devem conter pelo menos 10 caracteres alfabéticos.");
+    nome.value = "";
+    genero.value = "";
+    return;
+  }
 
   if (!validarData(data)) {
     alert("Data inválida! A data deve ser igual ou anterior à data atual.");
