@@ -211,6 +211,18 @@
       "genero": "Drama",
       "data": "2023-08-03T12:10:00.000Z",
       "favorito": false
+    },
+    {
+      "id": "d704",
+      "nome": "Vanhelsing",
+      "genero": "Terror",
+      "data": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "f249",
+      "nome": "Uma Noite No Museu",
+      "genero": "Aventura",
+      "data": "2025-01-01T00:00:00.000Z"
     }
   ]
 }
