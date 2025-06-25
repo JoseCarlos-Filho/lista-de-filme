@@ -5,224 +5,260 @@
       "nome": "O Iluminado",
       "genero": "Terror",
       "favorito": false,
-      "data": "2023-04-12T14:23:45.000Z"
+      "data": "2023-04-12T14:23:45.000Z",
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/7ceEaLciLfksJkSHqp0vLE5eLyy.jpg"
     },
     {
       "id": "1002",
       "nome": "Forrest Gump: O Contador de Histórias",
       "genero": "Drama",
       "favorito": false,
-      "data": "2022-09-30T09:12:10.000Z"
+      "data": "2022-09-30T09:12:10.000Z",
+      "imageUrl": "https://example.com/images/forrest-gump.jpg"
     },
     {
       "id": "1003",
       "nome": "Matrix",
       "genero": "Ficção Científica",
-      "data": "2024-01-18T20:45:30.000Z"
+      "data": "2024-01-18T20:45:30.000Z",
+      "imageUrl": "https://example.com/images/matrix.jpg"
     },
     {
       "id": "1004",
       "nome": "Batman: O Cavaleiro das Trevas",
       "genero": "Ação",
-      "data": "2021-07-05T17:00:00.000Z"
+      "data": "2021-07-05T17:00:00.000Z",
+      "imageUrl": "https://example.com/images/batman-cavaleiro-trevas.jpg"
     },
     {
       "id": "1005",
       "nome": "Alien: Romulus",
       "genero": "Ficção Científica",
       "favorito": false,
-      "data": "2023-11-22T11:30:15.000Z"
+      "data": "2023-11-22T11:30:15.000Z",
+      "imageUrl": "https://example.com/images/alien-romulus.jpg"
     },
     {
       "id": "1006",
       "nome": "Pulp Fiction",
       "genero": "Crime",
       "favorito": false,
-      "data": "2022-02-14T08:55:00.000Z"
+      "data": "2022-02-14T08:55:00.000Z",
+      "imageUrl": "https://example.com/images/pulp-fiction.jpg"
     },
     {
       "id": "1007",
       "nome": "A Origem",
       "genero": "Ficção Científica",
       "favorito": false,
-      "data": "2024-05-01T13:10:05.000Z"
+      "data": "2024-05-01T13:10:05.000Z",
+      "imageUrl": "https://example.com/images/a-origem.jpg"
     },
     {
       "id": "1008",
       "nome": "Titanic",
       "genero": "Romance",
-      "data": "2021-12-25T21:40:00.000Z"
+      "data": "2021-12-25T21:40:00.000Z",
+      "imageUrl": "https://example.com/images/titanic.jpg"
     },
     {
       "id": "1009",
       "nome": "O Senhor dos Anéis: A Sociedade do Anel",
       "genero": "Fantasia",
-      "data": "2023-08-19T10:00:00.000Z"
+      "data": "2023-08-19T10:00:00.000Z",
+      "imageUrl": "https://example.com/images/senhor-aneis-sociedade-anel.jpg"
     },
     {
       "id": "1010",
       "nome": "Gladiador",
       "genero": "Ação",
-      "data": "2022-06-10T15:30:00.000Z"
+      "data": "2022-06-10T15:30:00.000Z",
+      "imageUrl": "https://example.com/images/gladiador.jpg"
     },
     {
       "id": "1011",
       "nome": "A Rede Social",
       "genero": "Drama",
-      "data": "2024-03-03T19:20:00.000Z"
+      "data": "2024-03-03T19:20:00.000Z",
+      "imageUrl": "https://example.com/images/a-rede-social.jpg"
     },
     {
       "id": "1012",
       "nome": "Jurassic Park",
       "genero": "Aventura",
-      "data": "2023-10-28T07:45:00.000Z"
+      "data": "2023-10-28T07:45:00.000Z",
+      "imageUrl": "https://example.com/images/jurassic-park.jpg"
     },
     {
       "id": "1013",
       "nome": "O Lobo de Wall Street",
       "genero": "Comédia",
-      "data": "2022-01-15T12:00:00.000Z"
+      "data": "2022-01-15T12:00:00.000Z",
+      "imageUrl": "https://example.com/images/lobo-wall-street.jpg"
     },
     {
       "id": "1014",
       "nome": "Os Vingadores",
       "genero": "Ação",
-      "data": "2021-09-09T16:10:00.000Z"
+      "data": "2021-09-09T16:10:00.000Z",
+      "imageUrl": "https://example.com/images/os-vingadores.jpg"
     },
     {
       "id": "1015",
       "nome": "Cidadão Kane",
       "genero": "Drama",
-      "data": "2023-05-20T18:30:00.000Z"
+      "data": "2023-05-20T18:30:00.000Z",
+      "imageUrl": "https://example.com/images/cidadao-kane.jpg"
     },
     {
       "id": "1016",
       "nome": "A Vida é Bela",
       "genero": "Drama",
-      "data": "2022-08-08T22:00:00.000Z"
+      "data": "2022-08-08T22:00:00.000Z",
+      "imageUrl": "https://example.com/images/a-vida-e-bela.jpg"
     },
     {
       "id": "1017",
       "nome": "Os Suspeitos",
       "genero": "Suspense",
-      "data": "2024-04-17T11:15:00.000Z"
+      "data": "2024-04-17T11:15:00.000Z",
+      "imageUrl": "https://example.com/images/os-suspeitos.jpg"
     },
     {
       "id": "1018",
       "nome": "Mad Max: Estrada da Fúria",
       "genero": "Ação",
-      "data": "2023-07-13T14:00:00.000Z"
+      "data": "2023-07-13T14:00:00.000Z",
+      "imageUrl": "https://example.com/images/mad-max-estrada-furia.jpg"
     },
     {
       "id": "1019",
       "nome": "O Silêncio dos Inocentes",
       "genero": "Terror",
-      "data": "2022-03-27T20:00:00.000Z"
+      "data": "2022-03-27T20:00:00.000Z",
+      "imageUrl": "https://example.com/images/silencio-inocentes.jpg"
     },
     {
       "id": "1020",
       "nome": "O Exorcista",
       "genero": "Terror",
-      "data": "2021-11-11T23:59:00.000Z"
+      "data": "2021-11-11T23:59:00.000Z",
+      "imageUrl": "https://example.com/images/o-exorcista.jpg"
     },
     {
       "id": "1021",
       "nome": "Pequena Miss Sunshine",
       "genero": "Comédia",
-      "data": "2023-02-02T09:00:00.000Z"
+      "data": "2023-02-02T09:00:00.000Z",
+      "imageUrl": "https://example.com/images/pequena-miss-sunshine.jpg"
     },
     {
       "id": "1022",
       "nome": "O Grande Lebowski",
       "genero": "Comédia",
-      "data": "2022-10-18T13:30:00.000Z"
+      "data": "2022-10-18T13:30:00.000Z",
+      "imageUrl": "https://example.com/images/o-grande-lebowski.jpg"
     },
     {
       "id": "1023",
       "nome": "Brilho Eterno de uma Mente sem Lembranças",
       "genero": "Romance",
-      "data": "2024-06-01T17:45:00.000Z"
+      "data": "2024-06-01T17:45:00.000Z",
+      "imageUrl": "https://example.com/images/brilho-eterno.jpg"
     },
     {
       "id": "1024",
       "nome": "O Diabo Veste Prada",
       "genero": "Comédia",
-      "data": "2021-05-29T08:20:00.000Z"
+      "data": "2021-05-29T08:20:00.000Z",
+      "imageUrl": "https://example.com/images/diabo-veste-prada.jpg"
     },
     {
       "id": "1025",
       "nome": "O Labirinto do Fauno",
       "genero": "Fantasia",
-      "data": "2023-09-14T19:00:00.000Z"
+      "data": "2023-09-14T19:00:00.000Z",
+      "imageUrl": "https://example.com/images/labirinto-fauno.jpg"
     },
     {
       "id": "1026",
       "nome": "O Corvo",
       "genero": "Terror",
       "data": "2022-12-21T21:10:00.000Z",
-      "favorito": false
+      "favorito": false,
+      "imageUrl": "https://example.com/images/o-corvo.jpg"
     },
     {
       "id": "1027",
       "nome": "A Viagem de Chihiro",
       "genero": "Animação",
-      "data": "2024-02-12T10:30:00.000Z"
+      "data": "2024-02-12T10:30:00.000Z",
+      "imageUrl": "https://example.com/images/viagem-chihiro.jpg"
     },
     {
       "id": "1028",
       "nome": "Cidade de Deus",
       "genero": "Drama",
-      "data": "2023-03-07T15:00:00.000Z"
+      "data": "2023-03-07T15:00:00.000Z",
+      "imageUrl": "https://example.com/images/cidade-deus.jpg"
     },
     {
       "id": "1029",
       "nome": "Trainspotting",
       "genero": "Drama",
-      "data": "2022-07-16T18:40:00.000Z"
+      "data": "2022-07-16T18:40:00.000Z",
+      "imageUrl": "https://example.com/images/trainspotting.jpg"
     },
     {
       "id": "1030",
       "nome": "Um Estranho no Ninho",
       "genero": "Drama",
-      "data": "2021-10-03T20:15:00.000Z"
+      "data": "2021-10-03T20:15:00.000Z",
+      "imageUrl": "https://example.com/images/estranho-ninho.jpg"
     },
     {
       "id": "1031",
       "nome": "A Fantástica Fábrica de Chocolate",
       "genero": "Aventura",
-      "data": "2023-06-25T11:50:00.000Z"
+      "data": "2023-06-25T11:50:00.000Z",
+      "imageUrl": "https://example.com/images/fabrica-chocolate.jpg"
     },
     {
       "id": "1032",
       "nome": "A Era do Gelo",
       "genero": "Animação",
-      "data": "2022-05-12T14:30:00.000Z"
+      "data": "2022-05-12T14:30:00.000Z",
+      "imageUrl": "https://example.com/images/era-do-gelo.jpg"
     },
     {
       "id": "1033",
       "nome": "As Vantagens de Ser Invisível",
       "genero": "Drama",
       "data": "2024-01-27T16:00:00.000Z",
-      "favorito": false
+      "favorito": false,
+      "imageUrl": "https://example.com/images/vantagens-ser-invisivel.jpg"
     },
     {
       "id": "1034",
       "nome": "O Estranho que Nós Amamos",
       "genero": "Drama",
       "data": "2023-08-03T12:10:00.000Z",
-      "favorito": false
+      "favorito": false,
+      "imageUrl": "https://example.com/images/estranho-que-amos.jpg"
     },
     {
       "id": "d704",
       "nome": "Vanhelsing",
       "genero": "Terror",
-      "data": "2025-01-01T00:00:00.000Z"
+      "data": "2025-01-01T00:00:00.000Z",
+      "imageUrl": "https://example.com/images/vanhelsing.jpg"
     },
     {
       "id": "f249",
       "nome": "Uma Noite No Museu",
       "genero": "Aventura",
-      "data": "2025-01-01T00:00:00.000Z"
+      "data": "2025-01-01T00:00:00.000Z",
+      "imageUrl": "https://example.com/images/uma-noite-museu.jpg"
     }
   ]
 }
