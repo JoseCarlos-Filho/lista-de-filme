@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+
 :root{
   margin:0;
   padding:0;
@@ -5,10 +7,12 @@
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Lato", sans-serif;
   display: flex;
   align-items: center;
   flex-direction: column;
+
+  background: linear-gradient(to right, #474646, #f6f5f5); 
 }
 
 #filme-form {
@@ -36,8 +40,8 @@ body {
 }
 
 .li-filme{
-  width: 200px;
-  height: 150px;
+  width: 250px;
+  height: 200px;
   border: 2px solid gray;
   border-radius: 10px;
   padding:10px;
@@ -58,6 +62,7 @@ body {
   flex-direction: column;
   text-align: center;
   gap:20px;
+  color: #2c2b56;
 }
 
 .filme-nome{
@@ -66,5 +71,6 @@ body {
 }
 
 .filme-genero{
-  color:gray;
+  color: #5a0815;
+  font-weight: 500;
 }
