@@ -129,56 +129,56 @@
       "nome": "Mad Max: Estrada da Fúria",
       "genero": "Ação",
       "data": "2023-07-13T14:00:00.000Z",
-      "imageUrl": "https://example.com/images/mad-max-estrada-furia.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/mtgqrSlT47VsmeMVanLTny7BknB.jpg"
     },
     {
       "id": "1019",
       "nome": "O Silêncio dos Inocentes",
       "genero": "Terror",
       "data": "2022-03-27T20:00:00.000Z",
-      "imageUrl": "https://example.com/images/silencio-inocentes.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/paGUSTwcFrAxpGV1hSQ2wsI28id.jpg"
     },
     {
       "id": "1020",
       "nome": "O Exorcista",
       "genero": "Terror",
       "data": "2021-11-11T23:59:00.000Z",
-      "imageUrl": "https://example.com/images/o-exorcista.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/bYTMDg3eGFuO7emXbQip02a8zvQ.jpg"
     },
     {
       "id": "1021",
       "nome": "Pequena Miss Sunshine",
       "genero": "Comédia",
       "data": "2023-02-02T09:00:00.000Z",
-      "imageUrl": "https://example.com/images/pequena-miss-sunshine.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/gwLPVYqe1efIxkx6LQT7piZweH2.jpg"
     },
     {
       "id": "1022",
       "nome": "O Grande Lebowski",
       "genero": "Comédia",
       "data": "2022-10-18T13:30:00.000Z",
-      "imageUrl": "https://example.com/images/o-grande-lebowski.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/hR3VJEf7t8WdFD4gLIzpMozfG4T.jpg"
     },
     {
       "id": "1023",
       "nome": "Brilho Eterno de uma Mente sem Lembranças",
       "genero": "Romance",
       "data": "2024-06-01T17:45:00.000Z",
-      "imageUrl": "https://example.com/images/brilho-eterno.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/z3k9Y2886Uo6owGxoCteHSngwA6.jpg"
     },
     {
       "id": "1024",
       "nome": "O Diabo Veste Prada",
       "genero": "Comédia",
       "data": "2021-05-29T08:20:00.000Z",
-      "imageUrl": "https://example.com/images/diabo-veste-prada.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/clsvqIWM5ZILUcHjobQd4WtHZdu.jpg"
     },
     {
       "id": "1025",
       "nome": "O Labirinto do Fauno",
       "genero": "Fantasia",
       "data": "2023-09-14T19:00:00.000Z",
-      "imageUrl": "https://example.com/images/labirinto-fauno.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/qITtoZJxNj82ZwXUoLrqaYWUkop.jpg"
     },
     {
       "id": "1026",
@@ -186,42 +186,42 @@
       "genero": "Terror",
       "data": "2022-12-21T21:10:00.000Z",
       "favorito": false,
-      "imageUrl": "https://example.com/images/o-corvo.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lNflUElL8Bp7pp5j8sQR2Z9qNZX.jpg"
     },
     {
       "id": "1027",
       "nome": "A Viagem de Chihiro",
       "genero": "Animação",
       "data": "2024-02-12T10:30:00.000Z",
-      "imageUrl": "https://example.com/images/viagem-chihiro.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/hhoKhsyJ3hFaxEm5pMdZRiTu2lJ.jpg"
     },
     {
       "id": "1028",
       "nome": "Cidade de Deus",
       "genero": "Drama",
       "data": "2023-03-07T15:00:00.000Z",
-      "imageUrl": "https://example.com/images/cidade-deus.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/gfnXixcGC060QcG6JPxN6AMdVsq.jpg"
     },
     {
       "id": "1029",
       "nome": "Trainspotting",
       "genero": "Drama",
       "data": "2022-07-16T18:40:00.000Z",
-      "imageUrl": "https://example.com/images/trainspotting.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/y2eJoZx7s79Azq0AwwSImyG8tB1.jpg"
     },
     {
       "id": "1030",
       "nome": "Um Estranho no Ninho",
       "genero": "Drama",
       "data": "2021-10-03T20:15:00.000Z",
-      "imageUrl": "https://example.com/images/estranho-ninho.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/nqz0NHRmbc57HZdZxi66shMzGKO.jpg"
     },
     {
       "id": "1031",
       "nome": "A Fantástica Fábrica de Chocolate",
       "genero": "Aventura",
       "data": "2023-06-25T11:50:00.000Z",
-      "imageUrl": "https://example.com/images/fabrica-chocolate.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/o1BtZCp1t7ZpLJu9lLEJ4STKUR3.jpg"
     },
     {
       "id": "1032",
