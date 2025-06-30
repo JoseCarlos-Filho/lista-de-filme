@@ -14,7 +14,7 @@
       "genero": "Drama",
       "favorito": false,
       "data": "2022-09-30T09:12:10.000Z",
-      "imageUrl": "https://example.com/images/forrest-gump.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/d74WpIsH8379TIL4wUxDneRCYv2.jpg"
     },
     {
       "id": "1003",
@@ -36,7 +36,7 @@
       "genero": "Ficção Científica",
       "favorito": false,
       "data": "2023-11-22T11:30:15.000Z",
-      "imageUrl": "https://example.com/images/alien-romulus.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg"
     },
     {
       "id": "1006",
@@ -44,7 +44,7 @@
       "genero": "Crime",
       "favorito": false,
       "data": "2022-02-14T08:55:00.000Z",
-      "imageUrl": "https://example.com/images/pulp-fiction.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg"
     },
     {
       "id": "1007",
@@ -52,77 +52,77 @@
       "genero": "Ficção Científica",
       "favorito": false,
       "data": "2024-05-01T13:10:05.000Z",
-      "imageUrl": "https://example.com/images/a-origem.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/j4DJV91VGx7eAIWPeolV0nOtT1G.jpg"
     },
     {
       "id": "1008",
       "nome": "Titanic",
       "genero": "Romance",
       "data": "2021-12-25T21:40:00.000Z",
-      "imageUrl": "https://example.com/images/titanic.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
     },
     {
       "id": "1009",
       "nome": "O Senhor dos Anéis: A Sociedade do Anel",
       "genero": "Fantasia",
       "data": "2023-08-19T10:00:00.000Z",
-      "imageUrl": "https://example.com/images/senhor-aneis-sociedade-anel.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/omoMXT3Z7XrQwRZ2OGJGNWbdeEl.jpg"
     },
     {
       "id": "1010",
       "nome": "Gladiador",
       "genero": "Ação",
       "data": "2022-06-10T15:30:00.000Z",
-      "imageUrl": "https://example.com/images/gladiador.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/R1ieKOdGHYL7BRpl0iRgNV1uXw.jpg"
     },
     {
       "id": "1011",
       "nome": "A Rede Social",
       "genero": "Drama",
       "data": "2024-03-03T19:20:00.000Z",
-      "imageUrl": "https://example.com/images/a-rede-social.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/o8Y4YbPiV7TCNCEPJKv8AKTe2Gl.jpg"
     },
     {
       "id": "1012",
       "nome": "Jurassic Park",
       "genero": "Aventura",
       "data": "2023-10-28T07:45:00.000Z",
-      "imageUrl": "https://example.com/images/jurassic-park.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/mgjJ7FH4V3exsmoHwXrmsUhn0h1.jpg"
     },
     {
       "id": "1013",
       "nome": "O Lobo de Wall Street",
       "genero": "Comédia",
       "data": "2022-01-15T12:00:00.000Z",
-      "imageUrl": "https://example.com/images/lobo-wall-street.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/esJTXTdj4JZDyP5LUI1Fq3kyNda.jpg"
     },
     {
       "id": "1014",
       "nome": "Os Vingadores",
       "genero": "Ação",
       "data": "2021-09-09T16:10:00.000Z",
-      "imageUrl": "https://example.com/images/os-vingadores.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/tCyp6aqOhqGxg6dU0OOIPhOAAne.jpg"
     },
     {
       "id": "1015",
       "nome": "Cidadão Kane",
       "genero": "Drama",
       "data": "2023-05-20T18:30:00.000Z",
-      "imageUrl": "https://example.com/images/cidadao-kane.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/7RdvqkBX2gi6kiZ2yySeRqeClur.jpg"
     },
     {
       "id": "1016",
       "nome": "A Vida é Bela",
       "genero": "Drama",
       "data": "2022-08-08T22:00:00.000Z",
-      "imageUrl": "https://example.com/images/a-vida-e-bela.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/mdqU2CHabmbdkWKs1IvCfksbtNM.jpg"
     },
     {
       "id": "1017",
       "nome": "Os Suspeitos",
       "genero": "Suspense",
       "data": "2024-04-17T11:15:00.000Z",
-      "imageUrl": "https://example.com/images/os-suspeitos.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/30YtzPOimO7eG30r8K8rUkqTGNj.jpg"
     },
     {
       "id": "1018",
