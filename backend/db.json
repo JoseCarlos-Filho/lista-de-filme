@@ -228,7 +228,7 @@
       "nome": "A Era do Gelo",
       "genero": "Animação",
       "data": "2022-05-12T14:30:00.000Z",
-      "imageUrl": "https://example.com/images/era-do-gelo.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/lJCe6cQl4PfFMIN4jZCSrEpOXW.jpg"
     },
     {
       "id": "1033",
@@ -236,7 +236,7 @@
       "genero": "Drama",
       "data": "2024-01-27T16:00:00.000Z",
       "favorito": false,
-      "imageUrl": "https://example.com/images/vantagens-ser-invisivel.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/pUYWbq0I6oCrysxuL0OCxwB8wFp.jpg"
     },
     {
       "id": "1034",
@@ -244,7 +244,7 @@
       "genero": "Drama",
       "data": "2023-08-03T12:10:00.000Z",
       "favorito": false,
-      "imageUrl": "https://example.com/images/estranho-que-amos.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/IPmMFZAgQhUOmiQlICxnDlC2V1.jpg"
     },
     {
       "id": "d704",
@@ -258,7 +258,7 @@
       "nome": "Uma Noite No Museu",
       "genero": "Aventura",
       "data": "2025-01-01T00:00:00.000Z",
-      "imageUrl": "https://example.com/images/uma-noite-museu.jpg"
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/Pca1hVNgPAUcp6zVHldlboh80R.jpg"
     }
   ]
 }
